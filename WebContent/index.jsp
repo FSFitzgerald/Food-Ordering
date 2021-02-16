@@ -17,7 +17,7 @@
 	<div class="row">
 	<div class="col-md-4 col-sm-4 col-xs-12"></div>
 	<div class="col-md-4 col-sm-4 col-xs-12">
-	<form action="login" method="post" class="form-container">
+	<form action="login-process" method="post" class="form-container">
 		<h1 class="header">Login for awesome food</h1>
 		<div class="form-group">
 			<label for="email">Email address</label>
